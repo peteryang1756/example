@@ -382,7 +382,7 @@ params:
 # These options affect the core of cState.
 # Please do not change them if you do not
 # know what you are doing.
-theme: https://github.com/ssangyongsports/4tr34f
+theme: https://github.com/ssangyongsports/4tr34f.git
 
 preserveTaxonomyNames: true
 
